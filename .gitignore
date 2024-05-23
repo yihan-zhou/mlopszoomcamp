@@ -1,7 +1,7 @@
-data/
 .ipynb_checkpoints
 .bin
 *.db
+mlruns/
 
 *.html
 *.csv
