@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/yihanzhou/PycharmProjects/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/0/34c2ed4bd520473384c60d057861cf4e/artifacts
+end_time: 1716425466358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34c2ed4bd520473384c60d057861cf4e
+run_name: burly-pug-233
+run_uuid: 34c2ed4bd520473384c60d057861cf4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716425466355
+status: 4
+tags: []
+user_id: yihanzhou
