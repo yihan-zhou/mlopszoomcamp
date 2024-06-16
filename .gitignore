@@ -2,6 +2,7 @@
 .bin
 *.db
 mlruns/
+.github/workflows
 
 *.html
 *.csv
